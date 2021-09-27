@@ -1,0 +1,85 @@
+* {
+box-sizing: border-box;
+margin: 0;
+padding: 0;
+}
+
+.Me img {
+width: 30%;
+text-align: right;
+justify-content: right;
+}
+
+.Run-Buddy img {
+width: 50%;
+display: block;
+margin-left: auto;
+margin-right: auto;
+}
+
+.Run-Buddy h3 {
+    text-align: center;
+    justify-content: center;
+    font-size: 25px;
+}
+
+.Run-Buddy p {
+    text-align: center;
+    justify-content: center;
+    font-size: 25px;
+}
+
+.Projects-2 {
+    text-align: center;
+    font-size: 25px;
+}
+
+.Projects-2 img {
+width: 30%;
+display: block;
+margin-left: auto;
+margin-right: auto;
+}
+
+
+.Projects-3 {
+    text-align: center;
+    font-size: 25px;
+}
+
+
+.Projects-3 img {
+width: 30%;
+display: block;
+margin-left: auto;
+margin-right: auto;
+}
+
+
+.Projects-4 {
+    text-align: center;
+    font-size: 25px;
+}
+
+
+.Projects-4 img {
+width: 30%;
+display: block;
+margin-left: auto;
+margin-right: auto;
+ }
+
+ .flex-row {
+     display: flex;
+     flex-wrap: wrap;
+     margin: 0 auto;
+ }
+
+
+@media screen and (max-width: 980px) {
+    header {
+      padding-bottom: 0;
+      justify-content: center;
+      position: relative;
+    }
+  
