@@ -75,6 +75,11 @@ margin-right: auto;
      margin: 0 auto;
  }
 
+ .work h3 {
+     display: flex;
+     flex-wrap: wrap;
+     margin: auto;
+ }
 
 @media screen and (max-width: 980px) {
     header {
@@ -82,4 +87,4 @@ margin-right: auto;
       justify-content: center;
       position: relative;
     }
-  
+}
